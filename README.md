@@ -6,5 +6,7 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Notas
 Pueden hacer lo que quieran...
 
-###Nuevo apartado
+### Nuevo apartado
 Estoy en una sala blanca, junto a mi hay una impresora que hace ruidos de vez en cuando
+
+## Siguiente
